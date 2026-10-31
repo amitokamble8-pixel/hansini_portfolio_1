@@ -614,13 +614,7 @@ a.award-row:hover{background:var(--surface);border-color:var(--ink);transform:tr
    13. ABOUT
    ================================================================== */
 
-.about-split{
-  display:grid;grid-template-columns:1fr minmax(250px,320px);
-  gap:56px;align-items:start;
-}
-.about-split .prose{max-width:none}
-
-.prose{max-width:68ch}
+.prose{max-width:120ch}
 .prose p{
   color:var(--muted);font-size:16.5px;line-height:1.85;margin-bottom:22px;
   text-align:justify;hyphens:none;
