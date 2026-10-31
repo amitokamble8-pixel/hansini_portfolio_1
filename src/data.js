@@ -36,8 +36,8 @@ export const PROFILE = {
   },
   /* NOTE: the source resume PDF can be used as the CV file here. */
   cv: "/hansini_ramakrishnan_resume.pdf",
-  photo: "/placeholder-profile.png",
-  aboutPhoto: "/placeholder-profile.png",
+  photo: "",
+  aboutPhoto: "",
 };
 
 export const NAV = [
